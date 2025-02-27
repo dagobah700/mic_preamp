@@ -1,1 +1,3 @@
 Record=TopLevelDocument|FileName=psu.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=psu.SchDoc|Designator=PSU1|SchDesignator=PSU1|FileName=one_channel.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=one_channel.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=psu.SchDoc|Designator=PSU1|SchDesignator=PSU1|FileName=one_channel.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=one_channel.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
